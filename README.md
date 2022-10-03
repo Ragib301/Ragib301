@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ragib Yasar Rahman
-- 👀 I’m interested in Robotics, Machine Learning & AI
-- 🌱 I’m currently learning Kaggle's Project Titanic in R & Python
-- 💞️ I’m looking to collaborate on Robotics and Machine Learning
+- 👀 I’m interested in Robotics, Machine Learning, Computer Vision & AI
+- 🌱 I’m currently learning OpenCV, Mediapipe, dlib etc. about CV
+- 💞️ I’m looking to collaborate on Robotics and Computer Vision
 - 📫 How to reach me : https://www.facebook.com/ragib.yasar.3
 
 <!---
