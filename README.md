@@ -58,7 +58,6 @@ I'm a passionate innovator and tech enthusiast from Bangladesh, driven by curios
 - 📘 Facebook: [yasar.ragib.314](https://www.facebook.com/yasar.ragib.314)
 - 📧 Email: [ragibyasar11314@gmail.com](mailto:ragibyasar11314@gmail.com)
 - 📊 Kaggle: [ragib310](https://www.kaggle.com/ragib310)
-- 💻 GitHub: [github.com/your-username](https://github.com/your-username)
 
 ---
 
