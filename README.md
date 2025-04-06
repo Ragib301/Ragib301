@@ -53,7 +53,7 @@ I'm a passionate innovator and tech enthusiast from Bangladesh, driven by curios
 
 ## 📫 Let's Connect!
 
--👤 [Facebook] (https://www.facebook.com/yasar.ragib.314)
+- 👤 [Facebook] (https://www.facebook.com/yasar.ragib.314)
 - 💼 [LinkedIn] (https://www.linkedin.com/in/ragib314/)
 - 📧 Email: ragibyasar11314@gmail.com
 - 📊 [Kaggle] (https://www.kaggle.com/ragib310)
