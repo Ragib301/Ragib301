@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ragib Yasar Rahman!
 
-🎓 1st Year Student at Dhaka Residential Model College\
+🎓 Student at Dhaka Residential Model College\
 🤖 Robotics & AI Developer | 🚀 NASA Space Apps Challenge Global Nominee | 🥇 National & International Robot Olympiad Medalist
 
 ---
